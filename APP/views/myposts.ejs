@@ -1,0 +1,26 @@
+<%- include ('./base/header')   -%>
+
+<div class="container mt-2">
+    <h2>My Posts </h2>
+    <hr>
+    <div id="posts-container">
+    
+         <% for(let post of posts){ %>
+            <div class="card mb-3 shadow">
+                <div class="card-body">
+                    <h4 class="card-title"><%=post.title%></h4>
+                    <h6 class="card-subtitle mb-2 text-muted"> <%= post.username %> </h6>
+                    <div class="mb-1">
+                        <a href='/post/delete/<%=post._id%>' class="btn btn-danger btn-sm"> delete </a>
+                        <a href="/post/edit/<%=post._id%>" class="btn btn-info btn-sm"> edit </a>
+                    </div>
+                    
+                    <p class="card-text"><%= post.content %></p>
+                </div>
+            </div>
+        <%}%>
+        
+    </div>
+</div>
+
+<%- include ('./base/footer')   -%>
