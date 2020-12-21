@@ -12,8 +12,8 @@ Hello developers 😊, I created the web application to practice the CURD operat
    -> connected with MongoDB using mongoose module.
    
 CURD -> 
-  C -> you can create your post.
-  U -> you can update your post.
-  R -> Blogger-Man will read your post.
-  D -> you can delete your post.
+  C -> you can Create👷 your post.
+  U -> you can Update✨ your post.
+  R -> Blogger-Man will Read📚  your post.
+  D -> you can Delete🗑️ your post.
   
