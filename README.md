@@ -11,9 +11,9 @@ Hello developers 😊, I created the web application to practice the CRUD operat
    * complete Sign-up and login Authentication using browsers cookies and server session using passport module. 
    * connected with MongoDB using mongoose module.
    
-CURD -> 
- * C -> you can Create👷 your post.
- * R -> Blogger-Man will Read📚  your post.
- * U -> you can Update✨ your post.
- * D -> you can Delete🗑️ your post.
+CRUD -> 
+      *  C -> you can Create👷 your post.
+      *  R -> Blogger-Man will Read📚  your post.
+      *  U -> you can Update✨ your post.
+      *  D -> you can Delete🗑️ your post.
   
