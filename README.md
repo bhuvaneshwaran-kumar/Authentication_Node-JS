@@ -12,8 +12,8 @@ Hello developers 😊, I created the web application to practice the CRUD operat
    * connected with MongoDB using mongoose module.
    
 CRUD -> 
-      *  C -> you can Create👷 your post.
-      *  R -> Blogger-Man will Read📚  your post.
-      *  U -> you can Update✨ your post.
-      *  D -> you can Delete🗑️ your post.
+  *  C -> you can Create👷 your post.
+  *  R -> Blogger-Man will Read📚  your post.
+  *  U -> you can Update✨ your post.
+  *  D -> you can Delete🗑️ your post.
   
